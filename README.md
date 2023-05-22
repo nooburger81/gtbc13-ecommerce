@@ -19,6 +19,9 @@
 
   ## Usage
   I'm not sure...
+  
+  Below is the link to the video walkthrough:
+  https://watch.screencastify.com/v/uYzeFlXWa9jpz22U9TZy
 
   ## License
     This project is licensed under the MIT license.
